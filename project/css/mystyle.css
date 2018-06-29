@@ -1,0 +1,49 @@
+div.plotis img{
+  width: 100%;
+}
+
+div.plotis img:hover{
+  cursor: pointer;
+}
+
+div.plotis a{
+  z-index: -1;
+}
+
+.fonas{
+  background-image: url("../photos/dress.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.fonas2{
+  height: 100vh;
+}
+
+.pozicijaDesine{
+  float: right;
+}
+
+a{
+  color: black;
+}
+
+.margin{
+  margin: 10px;
+}
+
+.footer-responsive{
+  width: auto;
+}
+
+.pagination{
+  text-align: right;
+}
+
+.footer-copyright{
+  text-align: center;
+}
+
+.price a ul li, .store a ul li, .brand a ul li{
+  float: left;
+}

@@ -1,0 +1,36 @@
+@media only screen and (max-width: 992px){
+  #logo-container{
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 600px){
+  .page-footer{
+    display: inline-block;
+    width: 100%;
+  }
+  .price, .store, .brand{
+    float: left;
+  }
+}
+
+
+@media only screen and (max-width: 562px){
+  #search{
+    height: 30px;
+    width: 110px;
+  }
+}
+
+@media only screen and (max-width: 528px){
+  h4, p{
+    padding: 5px;
+  }
+}
+
+@media only screen and (max-width: 376px){
+  #download-button{
+    margin: 3px;
+  }
+}
